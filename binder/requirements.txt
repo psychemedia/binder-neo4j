@@ -1,0 +1,8 @@
+jupyter-server-proxy
+
+neo4j
+py2neo
+
+jupytext
+
+pandas
