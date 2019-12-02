@@ -18,6 +18,8 @@ repo2docker https://github.com/psychemedia/binder-neo4j
 
 ```
 
+The container also includes a [`cypher_kernel`](https://github.com/HelgeCPH/cypher_kernel) which allows queries to be entered directly into code cells and interactive network diagrams to be displayed direcly from cell query results.
+
 Broken:
 
 - the neo4j GUI doesn't seem to work under local testing at least
