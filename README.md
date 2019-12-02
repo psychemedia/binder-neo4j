@@ -1,6 +1,6 @@
 # binder-neo4j
 
-Example of a Binderised repo running neo4j
+Example of a Binderised repo running neo4j.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/psychemedia/binder-neo4j/master)
 
@@ -18,7 +18,7 @@ repo2docker https://github.com/psychemedia/binder-neo4j
 
 ```
 
-The container also includes a [`cypher_kernel`](https://github.com/HelgeCPH/cypher_kernel) which allows queries to be entered directly into code cells and interactive network diagrams to be displayed direcly from cell query results.
+The container also includes a [`cypher_kernel`](https://github.com/HelgeCPH/cypher_kernel) which allows queries to be entered directly into code cells and interactive network diagrams to be displayed directly from cell query results.
 
 Broken:
 
