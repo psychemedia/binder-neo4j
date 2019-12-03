@@ -20,7 +20,7 @@ repo2docker https://github.com/psychemedia/binder-neo4j
 
 The container also includes a [`cypher_kernel`](https://github.com/HelgeCPH/cypher_kernel) which allows queries to be entered directly into code cells and interactive network diagrams to be displayed directly from cell query results.
 
-Some simple IPython magic is also included.
+Some simple IPython magic is also included (henceforth the magic will be developed in the [innovationOUtside/cypher_magic](https://github.com/innovationOUtside/cypher_magic) repo).
 
 Broken:
 
