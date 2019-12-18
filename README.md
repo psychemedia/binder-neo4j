@@ -1,3 +1,5 @@
+-- ARCHIVED: USE https://github.com/ouseful-template-repos/binder-neo4j INSTEAD --
+
 # binder-neo4j
 
 Example of a Binderised repo running neo4j.
