@@ -7,4 +7,4 @@ jupytext
 
 pandas
 
-.
+git+https://github.com/innovationOUtside/cypher_magic.git
